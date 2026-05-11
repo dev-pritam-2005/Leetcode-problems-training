@@ -1,22 +1,19 @@
 class Solution(object):
     def isPalindrome(self, x):
+       
+        original_x = x
+        sum = 0
+        
+        if x < 0:
+            return False
+
       
-        n = x 
-        
-   
-        if n < 0:
-            return False 
-
-        b = n
-        reverse = 0 
-        
-     
-        while n > 0:
-            rem = n % 10
-            reverse = reverse * 10 + rem
-            n = n // 10
+        temp = x
+        while temp > 0:
+            rem = temp % 10
+            sum = sum * 10 + rem
+            temp = temp // 10
             
-
-        return b == reverse
+        return original_x == sum
 
 
