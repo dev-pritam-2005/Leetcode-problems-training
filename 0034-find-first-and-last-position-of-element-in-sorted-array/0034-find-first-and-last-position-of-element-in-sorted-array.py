@@ -1,25 +1,45 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
 
-        def search(x):
+        def lowerBound(arr, target):
             low = 0
-            high = len(nums)
+            high = len(arr) - 1
+            lb = -1
 
-            while low < high:
+            while low <= high:
                 mid = (low + high) // 2
 
-                if nums[mid] < x:
-                    low = mid + 1
+                if arr[mid] == target:
+                    lb = mid
+                    high = mid - 1
+
+                elif arr[mid] > target:
+                    high = mid - 1
+
                 else:
-                    high = mid
+                    low = mid + 1
 
-            return low
+            return lb
 
-        low = search(target)
-        high = search(target + 1) - 1
+        def upperBound(arr, target):
+            low = 0
+            high = len(arr) - 1
+            ub = -1
 
-        
-        if low <= high :
-            return [low, high]
+            while low <= high:
+                mid = (low + high) // 2
 
-        return [-1, -1]
+                if arr[mid] == target:
+                    ub = mid
+                    low = mid + 1
+
+                elif arr[mid] > target:
+                    high = mid - 1
+
+                else:
+                    low = mid + 1
+
+            return ub
+
+        return [lowerBound(nums, target),
+                upperBound(nums, target)]
