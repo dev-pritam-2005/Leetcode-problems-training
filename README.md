@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
