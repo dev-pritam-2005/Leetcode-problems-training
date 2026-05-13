@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -24,9 +25,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
