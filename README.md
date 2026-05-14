@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,4 +64,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
