@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0059-spiral-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
