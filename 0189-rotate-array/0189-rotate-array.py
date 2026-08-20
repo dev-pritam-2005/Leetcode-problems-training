@@ -12,7 +12,7 @@ class Solution:
         """
         n = len(nums)
 
-        # Edge case: no rotation needed
+       
         if n == 0 or k == 0:
             return nums
 
@@ -21,16 +21,16 @@ class Solution:
 
           # If direction is right
             # if direction == "right":
-            # Step 1: reverse the entire array
+           
         self.reverse(nums, 0, n - 1)
 
-            # Step 2: reverse first k elements
+           
         self.reverse(nums, 0, k - 1)
 
-            # Step 3: reverse remaining n-k elements
+           
         self.reverse(nums, k, n - 1)
 
-
+        return nums
 
 
 
