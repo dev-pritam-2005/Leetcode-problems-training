@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0496-next-greater-element-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/1789-primary-department-for-each-employee) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/dev-pritam-2005/Leetcode-problems-training/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
