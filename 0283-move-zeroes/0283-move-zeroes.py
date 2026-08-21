@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-
+        # brute force
         temp = [0]*len(nums)
         index=0
 
