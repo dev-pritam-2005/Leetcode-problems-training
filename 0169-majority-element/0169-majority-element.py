@@ -21,37 +21,57 @@ class Solution:
 
 
 
-        # better
-        n=len(nums)
+        # better : working good 
+        # n=len(nums)
 
-        mp={
+        # mp={
 
-        }
+        # }
 
+        # for num in nums:
+        #     if num in mp:
+        #         mp[num] += 1
+        #     else:
+        #         mp[num] = 1
+
+        # for num, count in mp.items():
+        #     if count > n // 2:
+        #         return num
+
+        # return -1
+
+        # optimal 
+        
+        n = len(nums)
+        
+       
+        cnt = 0
+        
+      
+        el = 0
+        
+      
         for num in nums:
-            if num in mp:
-                mp[num] += 1
+            if cnt == 0:
+                cnt = 1
+                el = num
+            elif el == num:
+                cnt += 1
             else:
-                mp[num] = 1
-
-        for num, count in mp.items():
-            if count > n // 2:
-                return num
-
+                cnt -= 1
+        
+       
+        cnt1 = nums.count(el)
+        
+       
+        if cnt1 > (n // 2):
+            return el
+        
+        
         return -1
 
 
-
-        # frequency={}
-        # n=len(nums)
-        # for k in nums:0
-        #     if k in frequency :
-        #         frequency[k]=frequency[k]+1
-        #     else:
-        #         frequency[k]=1
-        # for k in frequency:
-        #     if frequency[k] > n//2 :
-        #         return k 
+       
 
 
        
